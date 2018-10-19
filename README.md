@@ -1,4 +1,4 @@
-# AlOHA DEVS
+# ALOHA DEVS
 ### Technical Consulting Agency
 
 ## Services Include:
